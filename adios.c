@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-printf("Adiós Mundo\n");
+printf("Adió Mundo\n");
 return 0;
